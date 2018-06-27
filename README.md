@@ -1,8 +1,8 @@
-# ts-huobi
+# tvFeeder
 
 ## Description
 
-nestjs convert huobi to tv UDF
+nestjs convert Kraken data to tv UDF
 
 ## Installation
 
